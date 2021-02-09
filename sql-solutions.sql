@@ -22,3 +22,8 @@
 
 -- How much has each customer spent in total? 
 -- Customers who have spent $0 should still show up in the table. It should say 0, not NULL (research coalesce).
+
+
+
+
+Testing this shiznit. Is it working???
